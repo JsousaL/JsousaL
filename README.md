@@ -49,7 +49,7 @@ Repositório
 
 <p align="center">
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/JsousaL/output/github-contribution-grid-snake-dark.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/JsousaL/JsousaL/output/github-contribution-grid-snake-dark.svg)
 
 </p>
 
